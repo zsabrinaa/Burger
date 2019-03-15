@@ -1,0 +1,13 @@
+.header{
+    text-align: center
+}
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-color: black;
+    color: white
+}
+.img{
+    margin-left: 330px;
+    height: 300px;
+    width: 300px;
+}
